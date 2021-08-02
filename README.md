@@ -1,4 +1,5 @@
-### Hi there 👋
+### SeungWoo Han
+🔭 Wrtn Technologies Inc. Co-Founder
 
 <!--
 **SeungWO0/SeungWO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
